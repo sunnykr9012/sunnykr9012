@@ -50,3 +50,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunnykr9012&show_icons=true&locale=en&layout=compact" alt="sunnykr9012" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunnykr9012&show_icons=true&locale=en" alt="sunnykr9012" /></p>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
