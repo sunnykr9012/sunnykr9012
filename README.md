@@ -1,7 +1,7 @@
 ![logo](https://github.com/sunnykr9012/sunnykr9012/blob/main/Green%20Professional%20Gamer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sunny</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Data" width="400" scr="https://github.com/sunnykr9012/sunnykr9012/blob/main/Pink%20%26%20Blue%20Futuristic%20Gaming%20Channel%20Youtube%20Intro.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnykr9012&label=Profile%20views&color=0e75b6&style=flat" alt="sunnykr9012" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunnykr9012" alt="sunnykr9012" /></a> </p>
