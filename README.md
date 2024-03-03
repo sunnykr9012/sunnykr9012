@@ -13,7 +13,7 @@
 - 📫 How to reach me **sunnykr9012@gamil.com**
 
 - ⚡ Fun fact **I think I am Very Simple 😃**
-
+<img align="right" height="150" src="https://www.mkgifs.com/wp-content/uploads/2023/09/GIF-Goku-Backgrounds.gif"  />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sunny kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sunny kumar" height="30" width="40" /></a>
@@ -22,7 +22,7 @@
 <a href="https://www.hackerrank.com/sunny kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sunny kumar" height="30" width="40" /></a>
 </p>
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/sync/D4D27AQFncrJsykTVmA/articleshare-shrink_1280_800/0/1708675726103?e=1710079200&v=beta&t=-CYCStjG1mo2VGwRLcYZWQVCIwhRXJKCfHECr25nZqM"  />
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
   <img width="12" />
