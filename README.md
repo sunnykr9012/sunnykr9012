@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Tensorflow, pyTorch, Pandas,And Other**
 
-- 👨‍💻 All of my projects are available at [http://myprofileblog.lovestoblog.com/](https://portfolio-nine-brown-82.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-nine-brown-82.vercel.app/]()
 
 - 📫 How to reach me **sunnykr9012@gamil.com**
 
